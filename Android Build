@@ -1,0 +1,8 @@
+# Build for production
+npm run build
+
+# Add Android platform
+npx cap add android
+
+# Open in Android Studio
+npx cap open android
